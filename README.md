@@ -15,4 +15,4 @@ High score tracking
 
 Simple controls, fast reactions
 
-can be played here: [https://noamk377.itch.io/timber](url)
+
