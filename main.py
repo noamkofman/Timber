@@ -170,7 +170,6 @@ while running:
     # check for collision if so game over
     if branch_obj.collides_with(sprite_x , sprite_y, distance):
         game_over = True
-        print("hit")
         # Only save if it's a new high score
         if score > high_score:
             high_score = score
